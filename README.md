@@ -1,2 +1,1 @@
-# Blog do código
-> Um blog simples em Node.js
+# Node.js e JWT: autenticação com tokens.
